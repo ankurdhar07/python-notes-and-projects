@@ -24,9 +24,9 @@ This repository contains my personal Python learning materials, including handwr
 
 - Calculator
 - If elif else project #1
-- If elif else project #2
 - Good Morning Sir
 - Two boys conversation
+- More projects are coming soon...
 
 ## ✨ Why this repo?
 
