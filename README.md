@@ -6,7 +6,6 @@ This repository contains my personal Python learning materials, including handwr
 
 - **notes/** – My handwritten or typed notes on Python topics like variables, loops, functions, string methods, etc. 
 - **projects/** –  Small Python projects I created while learning.
-- **README.md** – This file, describing the contents of this repo
 
 ## 📌 Topics Covered
 
