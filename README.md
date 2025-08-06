@@ -23,7 +23,7 @@ This repository contains my personal Python learning materials, including handwr
 ## 📁 Projects Included
 
 - Calculator
-- If elif else project #1
+- If elif else project
 - Good Morning Sir
 - Two boys conversation
 - More projects are coming soon...
