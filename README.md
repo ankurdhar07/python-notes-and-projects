@@ -18,6 +18,7 @@ This repository contains my personal Python learning materials, including handwr
 - Comments, Escape Sequences & Print Statement
 - String Methods in Python
 - If Else Conditional Statements in Python
+- For Loops in Python
 - And more coming soon...
 
 ## 📁 Projects Included
